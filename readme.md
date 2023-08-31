@@ -10,7 +10,7 @@ Welcome to the NewsAPI project! Here's a guide to get you up and running :
 Begin by cloning this repository to your local machine :
 
 ```shell
-git clone git@github.com:sajjadabd/newsapi.git
+git clone https://github.com/sajjadabd/newsapi.git --recurse-submodules 
 ```
 
 ### Navigate to the Project Directory:  
