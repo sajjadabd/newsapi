@@ -5,6 +5,7 @@
 # Ignore Node.js modules and build files for the frontend
 frontend/node_modules/
 frontend/build/
+frontend/dist/
 
 # Ignore Composer dependencies and Laravel generated files for the backend
 backend/vendor/
