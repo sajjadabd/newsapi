@@ -17,9 +17,9 @@ git clone git@github.com:sajjadabd/newsapi.git
 
 Move into the project directory :
 
-`
+```shell
 cd newsapi
-`
+```
 
 
 ## Usage
@@ -30,18 +30,18 @@ Now, let's set up and run the project using Docker:
 
 Utilize Docker Compose to build and launch the project's containers:
 
-`
+```shell
 docker-compose up --build
-`
+```
 
 
 ## Access the Project:
 
 Once the containers are up and running, you can access the project through your browser:
 
-`
+```shell
 http://localhost:3000
-`
+```
 
 
 That's it! 
